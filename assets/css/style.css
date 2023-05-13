@@ -105,7 +105,7 @@ nav a {
   color: var(--white);
   font-size: 1.5rem;
   letter-spacing: 3px;
-    font-weight: 800;
+  font-weight: 800;
 }
 
 ul {
@@ -125,10 +125,9 @@ main {
 #sobre {
     display: flex;
     align-items: center;
-    background-color: var(--yellow);
-    padding: 20px;
+    background-color:var(--yellow);
+    padding: 25px;
     border-radius: 16px;
-    align-items: center;
     gap: 20px;
 }
 
@@ -136,6 +135,7 @@ main {
     width: 200px;
     border-radius: 20px;
     box-shadow: 2px 2px 5px var(--gray);
+
 }
 
 #meu_video {
@@ -187,7 +187,7 @@ footer {
     display: flex;
     gap: 3rem;
     justify-content: center;
-    padding: 40px
+    padding: 40px;
 }
 
 .endereco {
