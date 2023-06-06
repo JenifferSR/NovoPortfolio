@@ -252,3 +252,18 @@ button:hover {
     }
 
 }
+
+/* Define configurações específicas da Classe campos-form */
+.campos-form {
+    margin-bottom: 1rem;
+}
+
+/* Define configurações específicas dos elementos de mensagem
+de validação dos campos */
+#txtNome,
+#txtEmail,
+#txtMensagem,
+#txtCep {
+    font-size: 1rem;
+    padding: 0.25rem 0;
+}
